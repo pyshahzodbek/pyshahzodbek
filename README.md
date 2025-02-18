@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="name.svg" alt="Axmadjonov Diyorbek" />
+  <img src="name.svg" alt="Ravshanov Shahzod" />
 </h1>
 <br/>
 
@@ -13,16 +13,16 @@
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
-  <a href="https://t.me/mee_dior">
+  <a href="https://t.me/shahzod_14_06">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/_d1_or">
+  <a href="https://www.instagram.com/shahzod_14_06">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/diyorbek-axmadjonov-4113a9338/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:diyorbekaxmadjonov98@gmail.com">
+  <a href="mailto:shahzodravshanov1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
