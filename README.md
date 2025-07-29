@@ -16,10 +16,10 @@
   <a href="https://t.me/shahzod_14_06">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/shahzod_14_06">
+  <a href="https://www.instagram.com/shakhzodravshanov_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[https://www.linkedin.com/in/diyorbek-axmadjonov-4113a9338/](https://www.linkedin.com/feed/)">
+  <a href="[https://www.linkedin.com/in/shahzod-ravshanov-333b9a351/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shahzodravshanov1234@gmail.com">
