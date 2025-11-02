@@ -13,7 +13,7 @@
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
-  <a href="https://t.me/shahzod_14_06">
+  <a href="https://t.me/ravshanov_shakhzod">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/shakhzodravshanov_">
